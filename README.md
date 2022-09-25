@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Mister-Zeng/Portfolio-Website]
+- Solution URL: [https://github.com/IniobongUdom7/Personal-Website]
 - Live Site URL: [https://iniobongudom.com]
 
 ## My process
@@ -43,8 +43,9 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 - Javascript
+- Bootstrap
 
 ## Author
 
-- Website - [Jason Zeng](https://mister-zeng.github.io/Portfolio-Website/)
-- Twitter - [@misterzeng](https://www.twitter.com/misterzeng)
+- Website - [Iniobong Udom](https://github.com/IniobongUdom7/Personal-Website)
+- Twitter - [@Iniobongudom3](https://twitter.com/@Iniobongudom3)
